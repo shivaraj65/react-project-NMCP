@@ -1,0 +1,26 @@
+
+.content_c{
+    position: absolute;
+    left:50%;
+    top:35%;
+    color: red;
+}
+.center-text{
+    position: relative;
+    left:-50%;
+}
+.welcome-text{
+    padding-bottom: 10px;
+}
+.about{
+    font-size: 1rem;
+    padding-bottom: 20px;
+}
+.footer{
+    position: absolute;
+    bottom:0px;
+    left:0;
+    right:0;
+    margin: 0 auto;
+    color: white;
+}
